@@ -1,0 +1,46 @@
+.first-section {
+  background-image: url("./assets/parallax01.jpg");
+  background-size: cover;
+}
+.bg-top {
+  width: 100%;
+  height: 30vh;
+}
+.bg-top img {
+  width: 100%;
+  object-fit: cover;
+}
+.image-circle-developer {
+  margin-top: 10%;
+}
+.third-row-image-circle img {
+  width: 61%;
+  border-radius: 57%;
+}
+.get-started-photo img {
+  width: 61%;
+  border-radius: 57%;
+}
+.quotes-div img {
+  width: 40%;
+  border-radius: 57%;
+}
+.text-yellow {
+  color: #feea3a;
+}
+.background-yellow {
+  background-color: #feea3a !important;
+}
+.text-green {
+  color: #009587;
+}
+.background-green {
+  background-color: #009587 !important;
+}
+.header-right p {
+  font-size: 30px;
+}
+.header-right h2 {
+  font-size: 120px;
+  font-weight: 500;
+}
