@@ -37,3 +37,10 @@
 .background-green {
   background-color: #009587 !important;
 }
+.header-right p {
+  font-size: 30px;
+}
+.header-right h2 {
+  font-size: 120px;
+  font-weight: 500;
+}
